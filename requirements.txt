@@ -13,6 +13,7 @@ colorama==0.4.6
 cors==1.0.1
 dataclasses-json==0.6.7
 distro==1.9.0
+gunicorn==23.0.0
 docutils==0.16
 filelock==3.17.0
 firecrawl==1.12.0
